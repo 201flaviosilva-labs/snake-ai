@@ -1,0 +1,18 @@
+{
+  "name": "snake-hill-climbing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "201flaviosilva-utils": "^1.3.1",
+    "css-free-style": "^1.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
